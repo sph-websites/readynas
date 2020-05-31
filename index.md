@@ -1,5 +1,4 @@
 ---
-layout: single
+title: readynas.sphardy.com
 redirect_to: https://sphardy.com/readynas
 ---
-Redirect to https://sphardy.com/readynas
