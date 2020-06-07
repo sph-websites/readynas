@@ -1,8 +1,19 @@
 
 <!DOCTYPE html>
 <html lang="en-US">
-  <meta charset="utf-8">
-  <title>Redirecting from {{ page.redirect.from }}</title>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting from {{ page.redirect.from }}</title>
+
+    <link rel="canonical" href="{{ page.redirect.to }}">
+    <script>location="{{ page.redirect.to }}"</script>
+    <meta http-equiv="refresh" content="3; url={{ page.redirect.to }}">
+    <meta name="robots" content="noindex">
+    <h1>Redirecting to {{ page.redirect.to }}</h1>
+    <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+  </head>
+
+  <body>
 
   <!-- Default Statcounter code for Readynas Blog http://readynas.sphardy.com -->
   <script type="text/javascript">
@@ -15,11 +26,6 @@
   <noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/12336279/0/1f368a8f/1/" alt="Web Analytics"></a></div></noscript>
   <!-- End of Statcounter Code -->
 
-  <link rel="canonical" href="{{ page.redirect.to }}">
-  <script>location="{{ page.redirect.to }}"</script>
-  <meta http-equiv="refresh" content="3; url={{ page.redirect.to }}">
-  <meta name="robots" content="noindex">
-  <h1>Redirecting to {{ page.redirect.to }}</h1>
-  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
-
+  </body>
 </html>
+
