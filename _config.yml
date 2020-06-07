@@ -1,4 +1,5 @@
 plugins:
   - jekyll-redirect-from
+  - "jekyll-github-metadata"
 include:
   - _pages
