@@ -1,6 +1,9 @@
 ---
 title: Enabling User & Anonymous FTP Access
 date: 2011-03-23
+tags:
+  - Configuration
+  - Security
 ---
 
 Anonymous FTP access is a useful way to allow people access to download files from your NAS via a web browser without having to setup user accounts or figure out WebDAV.

@@ -3,6 +3,9 @@ title: Aperture Workflow with ReadyNAS
 date: 2010-11-08
 excerpt: |
   Over the past few months I've had a number of requests from the ReadyNAS forum & elsewhere for info on how I implement my Aperture Workflow with a ReadyNAS device. This is a short overview of how I work.
+tags:
+  - Applications
+  - Media
 ---
 
 ![Aperture Icon][]

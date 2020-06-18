@@ -8,6 +8,12 @@ main:
     url   : https://sphardy.com/contact
 
 popular:
+  - title    : "All Posts"
+    children :
+      - title: By Date
+        url  : /posts/
+      - title: By Tags
+        url  : /tags/
   - title    : Popular Posts
     children :
       - title: Direct Connect Your ReadyNAS
@@ -20,9 +26,3 @@ popular:
         url  : /2010/09/how-to-setup-readynas-permissions/
       - title: Restoring SSH Access
         url  : /2010/09/restoring-ssh-access/
-      - title: What are Reallocated Sectors?
-        url:   /2011/04/what-reallocated-sectors/
-      - title: "____"
-        url  : /posts/
-      - title: All Posts...
-        url:   /posts/

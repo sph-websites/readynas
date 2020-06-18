@@ -3,6 +3,9 @@ title: Hiding Files & Folders from FTP users
 tagline: ""
 date: 2010-11-30
 toc: false
+tags:
+  - Configuration
+  - Security
 ---
 
 The ReadyNAS devices support a variety of protocols, a consequence of which is that shares may include a number of system folders that are only intended to be used to support certain protocols.

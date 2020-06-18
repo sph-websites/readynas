@@ -7,7 +7,9 @@ excerpt: |
 redirect_from:
   - /web/readynas/restoring-ssh-access/
   - /2010/09/restoring-ssh-access_4574.html
-
+tags:
+  - Security
+  - Configuration
 ---
 
 ![SSH Image][]

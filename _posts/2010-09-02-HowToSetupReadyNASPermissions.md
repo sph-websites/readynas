@@ -5,6 +5,9 @@ toc: false
 hidden: true
 
 doc: "/assets/docs/FINAL-How-to-set-up-your-ReadyNAS-for-Individual-user-based-control-over-shares.pdf"
+tags:
+  - Configuration
+  - Permissions
 ---
 
 This additional page is provided to enable referral link access to the PDF document (below)

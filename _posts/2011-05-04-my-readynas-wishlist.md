@@ -2,6 +2,8 @@
 title: My ReadyNAS Wishlist
 toc_label: My Wishlist
 date: 2011-05-04
+tags:
+  - General
 ---
 
 After using ReadyNAS devices for a few years now, I have a number of features that I would like to see in future products and software. None are earth-shattering enhancements - many would address the tweaks documented on this blog for instance. But some are already supported on competitor products and could address many of the more common ease of use issues we ReadyNAS users often encounter.

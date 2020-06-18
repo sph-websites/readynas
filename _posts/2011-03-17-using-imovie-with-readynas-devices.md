@@ -1,6 +1,9 @@
 ---
 title: Using iMovie with ReadyNAS Devices
 date: 2011-03-17
+tags:
+  - Media
+  - Applications
 ---
 
 ![iMovie][]

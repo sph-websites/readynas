@@ -5,6 +5,9 @@ redirect_from:
   - /web/bliss/
   - /2011/06/bliss-addon-for-readynas-x86_2115.html
 toc: false
+tags:
+  - Media
+  - Applications
 ---
 
 **Warning:** The addon described in this post no longer exists

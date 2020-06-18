@@ -4,6 +4,9 @@ date: 2010-10-12
 redirect_from: /2010/10/installing-ssl-certificate-on-your_7476.html
 excerpt: |
   An SSL certificate is a means by which web servers prove their identity to web browsers and is digitally "signed" by a certificate authority, such as Verisign, that web browsers already trust.
+tags:
+  - Security
+  - Configuration
 ---
 
 ## SSL Warnings

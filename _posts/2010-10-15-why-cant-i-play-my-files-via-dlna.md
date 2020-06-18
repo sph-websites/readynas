@@ -2,6 +2,8 @@
 title: Why can't I play my files via DLNA?
 date: 2010-10-15
 toc: false
+tags:
+  - Media
 ---
 
 The [DLNA Organisation][] defines itself as follows:

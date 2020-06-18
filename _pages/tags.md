@@ -1,7 +1,7 @@
 ---
-title: "All Posts - By Year"
-permalink: /posts/
-layout: posts
+title: "All Posts - By Tag"
+permalink: /tags/
+layout: tags
 author_profile: true
 sidebar:
   - nav: popular

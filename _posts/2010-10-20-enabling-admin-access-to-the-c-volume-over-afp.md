@@ -2,6 +2,9 @@
 title: Enabling Admin access to the C Volume over AFP
 date: 2010-10-20
 toc: false
+tags:
+  - Configuration
+  - Security
 ---
 
 The ReadyNAS firmware has long enabled the admin user to connect to the NAS via CIFS and be able to see the root data volume. For those not familiar, when the admin user connects to the NAS s/he will see all shares plus an additional share called "c" - this is the data volume on the NAS that contains all shares.

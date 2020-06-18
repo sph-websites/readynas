@@ -5,6 +5,9 @@ toc: false
 redirect_from:
   - /web/readynas/how-to-migrate-to-user-security-mode
   - /2010/09/how-to-migrate-to-user-security-mode_4917.html
+tags:
+  - Security
+  - Configuration
 ---
 
 With newer OS'es like Windows 7 and OSX Snow Leopard, the "Share" security mode featured on some older ReadyNAS devices like the NV+ is unfortunately no longer supported. The solution to the problems this causes is to migrate the ReadyNAS to "User" security mode. In "User" mode, individual user accounts are created on the NAS for each person that will access it. That user account is then granted appropriate access to shares, rather than the shares themselves being password protected. To migrate to "User" mode, 3 major steps are required:

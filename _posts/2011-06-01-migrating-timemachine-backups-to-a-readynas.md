@@ -2,6 +2,9 @@
 title: Migrating TimeMachine Backups to a ReadyNAS
 date: 2011-06-01
 toc: false
+tags:
+  - Backups
+  - Applications
 ---
 
 ReadyNAS devices can be used as a target for TimeMachine backups. However when users first set this facility up they also often want to migrate an existing backup from an external HDD attached to their mac to the ReadyNAS so that they maintain their backup history but free up the external HDD

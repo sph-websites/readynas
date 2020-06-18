@@ -6,6 +6,9 @@ toc_label: "How to connect"
 redirect_from:
   - /web/directconnect
   - /2010/09/how-to-direct-connect-to-your-readynas_1197.html
+tags:
+  - Networking
+  - Configuration
 ---
 
 When encountering a problem with a ReadyNAS device, it is often useful during the process of diagnosing that problem to eliminate the network to which the ReadyNAS is connected to determine if the issue is truly with the ReadyNAS, or due to the network to which it is connected.

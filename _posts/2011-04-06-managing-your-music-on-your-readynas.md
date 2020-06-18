@@ -2,6 +2,9 @@
 title: Managing your Music on your ReadyNAS
 date: 2011-04-06
 toc: false
+tags:
+  - Configuration
+  - Media
 ---
 
 A primary use of home NAS devices is the central storage of, and access to, a media library. For many people a large portion of that library will be music, music that is also often being accessed by multiple applications: SqueezeboxServer, DLNA servers, iTunes etc.

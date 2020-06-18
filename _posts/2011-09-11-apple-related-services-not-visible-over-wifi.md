@@ -3,6 +3,8 @@ title: Apple Related Services not Visible over WiFi
 date: 2011-09-10
 redirect_from: /2011/09/apple-related-services-not-visible-over_8538.html
 toc: false
+tags:
+  - Networking
 ---
 
 Apple products primarily rely on a technology called [mDNS][] to advertise and discover the availability of services, the Apple implementation commonly known as [Bonjour][]. ReadyNAS products implement the  Linux application [Avahi][] to provide mDNS support for Mac users.

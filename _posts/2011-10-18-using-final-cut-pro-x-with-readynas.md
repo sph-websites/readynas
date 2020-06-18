@@ -2,6 +2,9 @@
 title: Using Final Cut Pro X with ReadyNAS
 date: 2011-10-18
 redirect_from: /2011/10/using-final-cut-pro-x-with-readynas_6783.html
+tags:
+  - Media
+  - Applications
 ---
 
 With the release of Final Cut Pro X, Apple has removed the ability to directly and easily work with video clips & projects stored on traditional AFP, CIFS or NFS accessible network volumes, now only supporting XSAN based network storage.

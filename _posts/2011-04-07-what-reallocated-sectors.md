@@ -1,6 +1,8 @@
 ---
 title: What are Reallocated Sectors?
 date: 2011-04-07
+tags:
+  - General
 ---
 
 Most ReadyNAS users have probably experienced it. Waking up, eventually checking email over a morning cup of coffee to find that overnight your NAS has sent you the friendly warning:

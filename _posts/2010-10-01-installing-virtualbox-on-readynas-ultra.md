@@ -4,6 +4,8 @@ date: 2010-10-01
 toc: false
 excerpt: |
   Here are the steps I used to install the 64 bit version of VB 3.2.8 under RAIDiator 4.2.13 - all worked perfectly first time (though hope I haven't forgotten to copy/paste something)
+tags:
+  - Applications
 ---
 
 ![Vbox Icon][]

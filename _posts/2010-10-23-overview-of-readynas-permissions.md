@@ -2,6 +2,8 @@
 title: Overview of ReadyNAS Permissions
 redirect_from: /2010/10/overview-of-readynas-permissions_1643.html
 date: 2010-10-23
+tags:
+  - Permissions
 ---
 
 ![NV+][] Setting up share & file permissions on ReadyNAS devices can generate a substantial number of questions and problems. In most cases, these questions & problems are due to either a lack of understanding by the user of how permissions are designed to work, or a user having incorrect expectations of how permissions work - particularly when more familiar with Windows systems.

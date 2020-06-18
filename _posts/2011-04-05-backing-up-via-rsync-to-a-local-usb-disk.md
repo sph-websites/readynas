@@ -2,6 +2,9 @@
 title: Backing-up via Rsync to a local USB disk
 date: 2011-04-05
 toc: false
+tags:
+  - Backup
+  - Applications
 ---
 
 It is often desirable to use rsync to backup data due to the benefits it offers: true incremental backup, the ability to remove data from the backup that has been deleted in the source and rsync's support for verification of the backed-up data are just some of the advantages.

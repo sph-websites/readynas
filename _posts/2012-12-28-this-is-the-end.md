@@ -6,6 +6,8 @@ excerpt: Bringing this blog to it's natural end
 redirect_from: /2012/12/update.html
 classes:
   - wide
+tags:
+  - General
 ---
 
 ![My ReadyNAS Blog Image][]
