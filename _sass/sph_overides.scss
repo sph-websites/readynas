@@ -53,3 +53,7 @@ h4 { font-style: italic; } // More differentiation to h3
 .toc .nav__title { background: $footer-background-color; }  //Set ToC header to footer colour
 
 .feature__wrapper { border-bottom: 0; margin-bottom: 0; }
+
+.nav__items {
+  li { margin-bottom: 0.5em; }
+}

@@ -4,9 +4,8 @@ date: 2012-12-28
 toc: false
 excerpt: Bringing this blog to it's natural end
 redirect_from: /2012/12/update.html
-#classes:
-#  - wide
-#  - sph_img_rnd
+classes:
+  - wide
 ---
 
 ![My ReadyNAS Blog Image][]
