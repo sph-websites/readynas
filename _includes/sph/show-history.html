@@ -1,0 +1,11 @@
+{% if page.last_modified_at != nil %}
+
+<div class="sph_page_history">
+  <h{{page.history_level | default: "2"}} id="post-updates">Post Updates:</h{{page.history_level | default: "2"}}>
+  {% for s in page.history %}
+    <p><time datetime="{{ s.date | date_to_xmlschema }}">{{ s.date | date: "%B %-d, %Y" }}: </time> <i>{{ s.change }}</i></p>
+  {% else %}
+    <p><time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}: </time><i>No update details available. (Probably typo's fixed)</i></p>
+  {% endfor %}
+</div>
+{% endif %}

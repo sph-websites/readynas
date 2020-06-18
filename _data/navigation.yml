@@ -1,0 +1,8 @@
+# /_data/navigation.yml Navigation Menu Definitions
+main:
+  - title : "Blog"
+    url   : /
+  - title : "About"
+    url   : https://sphardy.com
+  - title : "Contact"
+    url   : https://sphardy.com/contact

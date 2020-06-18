@@ -1,16 +1,213 @@
-plugins:
-  - jekyll-redirect-from
-  - "jekyll-github-metadata"
+# _config.yml
+
+#######################################################################################
+#
+# Site Settings
+#
+#######################################################################################
+
+title                   : "ReadyNAS Blog"
+title_separator         : "|"
+subtitle                : "Archive of Posts from ReadyNAS Forum"
+author                  : "readynas"
+email                   : "readynas@sphardy.com"
+
+description             : >- # this means to ignore newlines
+  Paul's Place: A small personal space for random musings of just another old fart...
+
+#######################################################################################
+#
+# Theme specific settings
+#
+#######################################################################################
+
+#remote_theme            : mmistakes/minimal-mistakes
+theme                   : minimal-mistakes-jekyll
+minimal_mistakes_skin   : air
+
+#masthead_title          :  "Wot's hap'nin' ??"
+logo                    : /assets/images/Masthead-150px.png
+#teaser                  : "/assets/images/clouds-350.jpeg"
+
+breadcrumbs             : false
+search                  : true
+search_full_content     : true
+
+github_username         : sphardy
+twitter_username        : s_paul_h
+
+footer:
+  links:
+    - label             : "GitHub"
+      icon              : "fab fa-fw fa-github"
+      url               : "https://github.com/sphardy"
+    - label             : "LinkedIn"
+      icon              : "fab fa-linkedin"
+      url               : "https://www.linkedin.com/in/spaulhardy/"
+
+comments                :
+  provider              : "utterances"
+  utterances            :
+    theme               : "github-light" # "github-dark"
+    issue_term          : "title"
+    label               : "comment"
+
+analytics               :
+  provider              : "custom"
+  #provider              : "google-gtag"
+  #google                :
+  #  tracking_id         : "UA-7123614-1"
+  #  anonymize_ip        : false # default
+
+#######################################################################################
+#
+# Content settings
+#
+#######################################################################################
+
+# Post / Page / Collection Defaults
+defaults:
+  # _posts
+  - scope               :
+      path              : ""
+      type              : posts
+    values              :
+      layout            : sph_single
+      author_profile    : true
+      read_time         : true
+      comments          : true
+      share             : true
+      related           : true
+      author            : readynas
+      tagline           : ""
+      header            :
+        overlay_image   : /assets/images/headers/header-rn4.jpg
+        overlay_filter  : 0.1
+        teaser          : ""
+        actions         :
+          - label       : ⤴️
+            url         : /
+      toc               : enabled
+      toc_sticky        : true
+      sidebar           :
+        - class         : sph-sidebar-warning
+          text          : |
+            <strong>Warning:</strong> This blog has been retired since December, 2012
+
+            The information contained may be out of date or no longer accurate
+
+  # _pages
+  - scope:
+      path              : ""
+      type              : pages
+    values:
+      layout            : single
+      author_profile    : true
+      read_time         : true
+      search            : true
+      share             : false
+      related           : true
+      comments          : true
+
+category_archive        :
+  type                  : liquid
+  path                  : /categories/
+
+tag_archive             :
+  type                  : liquid
+  path                  : /tags/
+
+category_archive        :
+  type                  : liquid
+  path                  : /categories/
+
+tag_archive             :
+  type                  : liquid
+  path                  : /tags/
+
+#######################################################################################
+#
+# Standard Jekyll Settings
+#
+#######################################################################################
+
+# Build settings
+future                  : false
+markdown                : kramdown
+
+# Outputting
+permalink               : /:year/:month/:title/
+paginate                : 5 # amount of posts to show
+paginate_path           : "/page:num/"
+timezone                : Europe/Mariehamn
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# File/Folder inclusion/exclusion
 include:
   - _pages
   - keybase.txt
+<<<<<<< HEAD
+=======
+  - favicon.ico
+
+>>>>>>> dev
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
   - README
   - tmp
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+# GitHub Settings
+github                  : [metadata]
+repository              : "sphardy/rn"
