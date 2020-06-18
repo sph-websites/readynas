@@ -1,7 +1,7 @@
 readynas:
   name        : "sphardy"
   bio         : "Former ReadyNAS User"
-  avatar      : "/assets/images/Masthead-150px.png"
+  avatar      : "/assets/images/avatar.png"
   location    : Mariehamn, Åland
   links:
     - label   : "Email"
