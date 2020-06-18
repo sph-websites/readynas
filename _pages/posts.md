@@ -8,4 +8,4 @@ sidebar:
 classes:
   - wide
 ---
-<style>a {text-decoration: none;}</style>
+<style>a {text-decoration: none;} .sph_post_date {margin: 0 0 2em 0;}</style>
