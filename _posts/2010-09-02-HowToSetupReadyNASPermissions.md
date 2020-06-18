@@ -1,5 +1,5 @@
 ---
-title: How To Setup ReadyNAS Permissions
+title: ReadyNAS Permissions Manual
 date: 2010-09-02
 toc: false
 hidden: true
