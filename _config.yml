@@ -13,7 +13,7 @@ author                  : "readynas"
 email                   : "readynas@sphardy.com"
 
 description             : >- # this means to ignore newlines
-  Paul's Place: A small personal space for random musings of just another old fart...
+  ReadyNAS Blog - Archive of posts from original ReadyNAS Forum
 
 #######################################################################################
 #
@@ -21,8 +21,8 @@ description             : >- # this means to ignore newlines
 #
 #######################################################################################
 
-#remote_theme            : mmistakes/minimal-mistakes
-theme                   : minimal-mistakes-jekyll
+remote_theme            : mmistakes/minimal-mistakes
+#theme                   : minimal-mistakes-jekyll
 minimal_mistakes_skin   : air
 
 #masthead_title          :  "Wot's hap'nin' ??"
