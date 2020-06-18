@@ -1,0 +1,15 @@
+{% comment %}
+
+# Generate Page date with fontawesome descriptor
+
+{% endcomment %}
+
+{% if page.published == false %}
+  {% assign status = " - Unpublished" %}
+{% else %}
+  {% assign status = "" %}
+{% endif %}
+
+{% if page.date %}
+  <p class="sph_page_date page__date"><strong><i class="{{site.data.fa.cal}}" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Posted:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{{ status }}</p>
+{% endif %}

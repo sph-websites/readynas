@@ -1,0 +1,24 @@
+{% comment %}
+<!-- Tag page with priorty order of tag selection
+  1. include.tag parameter
+  2. page sctag parameter
+  3. Page Collection
+  4. Default page slug
+-->
+{% endcomment %}
+
+{% if include.tag  %}
+  {% assign tag = include.tag %}
+{% elsif page.sctag %}
+  {% assign tag = page.sctag %}
+{% elsif page.collection != "" and page.collection != nil %}
+  {% assign tag = page.collection %}
+{% else %}
+  {% assign tag = page.name | remove: ".md" | remove: ".html" %}
+{% endif %}
+
+<!-- Tag Page -->
+<script type="text/javascript">
+var _statcounter = _statcounter || [];
+_statcounter.push({"tags": {"Topic": "{{ tag }}"}});
+</script>

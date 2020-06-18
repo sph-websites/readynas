@@ -1,0 +1,9 @@
+readynas:
+  name        : "sphardy"
+  bio         : "Former ReadyNAS User"
+  avatar      : "/assets/images/Masthead-150px.png"
+  location    : Mariehamn, Åland
+  links:
+    - label   : "Email"
+      icon    : "far fa-fw fa-envelope"
+      url     : "mailto:readynas@sphardy.com"

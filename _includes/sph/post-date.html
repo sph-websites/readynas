@@ -1,0 +1,25 @@
+{% comment %}
+
+# Generate post date with fontawesome descriptor
+
+param: moddate - Post or Last Modified date output based on moddate
+param: icononly - Output Icon or Icon + Post/Updated text
+
+{% endcomment %}
+
+{% if include.moddate and post.last_modified_at != nil %}
+  {% assign postdate = post.last_modified_at %}
+  {% assign posttext = "Updated:" %}
+{% else %}
+  {% assign postdate = post.date %}
+  {% assign posttext = "Posted:" %}
+{% endif %}
+
+{% if postdate %}
+  {% if include.icononly %}
+    <p class="sph_post_date"><strong><i class="{{site.data.fa.cal}}" aria-hidden="true"></i></strong> <time datetime="{{ postdate | date_to_xmlschema }}">{{ postdate | date: "%B %-d, %Y" }}</time></p>
+  {% else %}
+    <p class="sph_post_date"><strong><i class="{{site.data.fa.cal}}" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: posttext }}</strong> <time datetime="{{ postdate | date_to_xmlschema }}">{{ postdate | date: "%B %-d, %Y" }}</time></p>
+  {% endif %}
+{% endif %}
+

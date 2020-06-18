@@ -1,0 +1,22 @@
+{% comment %}
+
+# Embed PDF with parameters
+
+param: size   - Options = A4, Letter, Undefined (auto)
+param: pdf    - PDF file link
+
+{% endcomment %}
+
+{% case include.size %}
+  {% when "A4" %}
+     {% assign width="100%" %}
+     {% assign height="140%" %}
+  {% when "Letter" %}
+     {% assign width="100%" %}
+     {% assign height="130%" %}
+  {% else %}
+     {% assign width="100%" %}
+     {% assign height="auto" %}
+{% endcase %}
+
+<embed width="{{width}}" height="{{height}}" src="{{include.pdf}}" type="application/pdf" />
