@@ -146,11 +146,8 @@ timezone                : Europe/Mariehamn
 include:
   - _pages
   - keybase.txt
-<<<<<<< HEAD
-=======
   - favicon.ico
 
->>>>>>> dev
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

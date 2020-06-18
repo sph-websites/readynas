@@ -17,9 +17,9 @@ So after clearing out the coffee you just spluttered all over your keyboard,  w
 ![Disk Image][]
 **Note:** ReadyNAS devices perform HDD SMART tests early each morning - so it is most common to get such a message in your morning inbox)
 {: .notice--primary}
-{% include sph/clear %}
 
 ## What are Reallocated Sectors?
+{: .cf}
 
 The disks, or more correctly the platters, in a Hard Disk Drive (HDD) are of course circular - data is organised on each platter in a series of concentric circles called a track, with each track partitioned into multiple smaller units called sectors. By convention, each sector is able to store either 512 bytes or 4Kbytes of data.
 
