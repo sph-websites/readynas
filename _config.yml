@@ -3,6 +3,7 @@ plugins:
   - "jekyll-github-metadata"
 include:
   - _pages
+  - .well-known/keybase.txt
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
