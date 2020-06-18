@@ -6,3 +6,23 @@ main:
     url   : https://sphardy.com
   - title : "Contact"
     url   : https://sphardy.com/contact
+
+popular:
+  - title    : Popular Posts
+    children :
+      - title: Direct Connect Your ReadyNAS
+        url  : /2010/09/how-to-direct-connect-to-your-readynas/
+      - title: How to Migrate to User Security Mode
+        url  : /2010/09/how-to-migrate-to-user-security-mode/
+      - title: Overview of ReadyNAS Permissions
+        url  : /2010/10/overview-of-readynas-permissions/
+      - title: Setting Up ReadyNAS Permissions
+        url  : /2010/09/how-to-setup-readynas-permissions/
+      - title: Restoring SSH Access
+        url  : /2010/09/restoring-ssh-access/
+      - title: What are Reallocated Sectors?
+        url:   /2011/04/what-reallocated-sectors/
+      - title: "____"
+        url  : /posts
+      - title: All Posts...
+        url:   /posts

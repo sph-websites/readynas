@@ -6,7 +6,7 @@
 #
 #######################################################################################
 
-title                   : "ReadyNAS Blog"
+title                   : "My ReadyNAS Blog"
 title_separator         : "|"
 subtitle                : "Archive of Posts from ReadyNAS Forum"
 author                  : "readynas"
@@ -40,7 +40,7 @@ footer:
   links:
     - label             : "GitHub"
       icon              : "fab fa-fw fa-github"
-      url               : "https://github.com/sphardy"
+      url               : "https://github.com/sphardy/rn"
     - label             : "LinkedIn"
       icon              : "fab fa-linkedin"
       url               : "https://www.linkedin.com/in/spaulhardy/"
@@ -95,6 +95,8 @@ defaults:
             <strong>Warning:</strong> This blog has been retired since December, 2012
 
             The information contained may be out of date or no longer accurate
+        - nav           : popular
+
 
   # _pages
   - scope:
