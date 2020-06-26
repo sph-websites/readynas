@@ -3,6 +3,8 @@ title: ReadyNAS Permissions Manual
 date: 2010-09-02
 toc: false
 hidden: true
+redirect_from:
+ - /web/permissionsguide/
 
 doc: "/assets/docs/FINAL-How-to-set-up-your-ReadyNAS-for-Individual-user-based-control-over-shares.pdf"
 tags:
