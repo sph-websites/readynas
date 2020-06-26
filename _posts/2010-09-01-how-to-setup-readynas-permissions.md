@@ -2,8 +2,8 @@
 title: How to Setup ReadyNAS Permissions
 date: 2010-09-01
 redirect_from:
-  - /web/HowToSetupReadyNASPermissions
-  - /web/readynas/HowToSetupReadyNASPermissions
+  - /web/HowToSetupReadyNASPermissions/
+  - /web/readynas/HowToSetupReadyNASPermissions/
   - /2010/09/how-to-setup-readynas-permissions_5296.html
 tags:
   - Configuration
