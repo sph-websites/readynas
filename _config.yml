@@ -8,7 +8,7 @@
 
 title                   : "My ReadyNAS Blog"
 title_separator         : "|"
-subtitle                : "Archive of Posts from ReadyNAS Forum"
+subtitle                : "ReadyNAS Forum Archived Posts"
 author                  : "readynas"
 email                   : "readynas@sphardy.com"
 
@@ -25,9 +25,7 @@ remote_theme            : mmistakes/minimal-mistakes
 #theme                   : minimal-mistakes-jekyll
 minimal_mistakes_skin   : air
 
-#masthead_title          :  "Wot's hap'nin' ??"
 logo                    : /assets/images/Masthead-150px.png
-#teaser                  : "/assets/images/clouds-350.jpeg"
 
 breadcrumbs             : false
 search                  : true
@@ -83,7 +81,6 @@ defaults:
       header            :
         overlay_image   : /assets/images/headers/header-rn4.jpg
         overlay_filter  : 0.1
-        teaser          : ""
         actions         :
           - label       : ⤴️
             url         : /
