@@ -2,6 +2,8 @@
 title: Enabling Admin access to the C Volume over AFP
 date: 2010-10-20
 toc: false
+redirect_from:
+  - /2010/10/enabling-admin-access-to-c-volume-over_4626.html
 tags:
   - Configuration
   - Security
