@@ -3,6 +3,7 @@ title: Installing Java on x86 ReadyNAS
 date: 2010-10-02
 tags:
   - Applications
+redirect_from: /2010/10/installing-java-on-x86-readynas_7583.html
 ---
 
 Here's a step by step guide to installing Java from the official Debian Etch repository.

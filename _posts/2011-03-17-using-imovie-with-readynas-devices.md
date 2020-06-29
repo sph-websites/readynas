@@ -4,6 +4,7 @@ date: 2011-03-17
 tags:
   - Media
   - Applications
+redirect_from: /2011/03/using-imovie-with-readynas-devices_157.html
 ---
 
 ![iMovie][]

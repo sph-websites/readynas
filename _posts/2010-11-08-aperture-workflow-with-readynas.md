@@ -6,6 +6,7 @@ excerpt: |
 tags:
   - Applications
   - Media
+redirect_from: /2010/11/aperture-workflow-with-readynas_6866.html
 ---
 
 ![Aperture Icon][]

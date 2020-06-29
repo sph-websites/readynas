@@ -4,6 +4,7 @@ date: 2010-10-15
 toc: false
 tags:
   - Media
+redirect_from: /2010/10/why-can-i-play-my-files-via-dlna_7484.html
 ---
 
 The [DLNA Organisation][] defines itself as follows:
