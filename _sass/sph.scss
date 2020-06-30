@@ -115,26 +115,8 @@
 
 .sph-sidebar-warning {
   margin: 1em 0 !important;  /* override*/
-  padding: 0.25em 0.5em;
-  //width: 90%; // reduce width
   color: darkred;
-  font-family: $global-font-family;
   font-size: $type-size-5 !important; //resize
-  text-indent: initial; /* override*/
-  text-align: left;
-  background-color: mix(#fff, $danger-color, 90%);
-  border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba($danger-color, 0.25);
-
-  h3 {
-    margin-top: 0;
-  }
-
-  p {
-    text-align: center;
-    margin: 0.5em 0.5em;
-  }
-
 }
 
 .sph-sidebar-menu {
