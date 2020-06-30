@@ -5,6 +5,7 @@ toc: false
 redirect_from:
   - /web/readynas/how-to-migrate-to-user-security-mode
   - /2010/09/how-to-migrate-to-user-security-mode_4917.html
+  - /2010/09/how-to-migrate-to-user-security-mode_4917.html%C2%A0
 tags:
   - Security
   - Configuration
