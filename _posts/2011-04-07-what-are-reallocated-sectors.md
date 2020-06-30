@@ -8,7 +8,7 @@ redirect_from: /2011/04/what-are-reallocated-sectors_4242.html
 
 Most ReadyNAS users have probably experienced it. Waking up, eventually checking email over a morning cup of coffee to find that overnight your NAS has sent you the friendly warning:
 
-> Error message: Reallocated sector count has increased in the last day.
+> **Error message:** Reallocated sector count has increased in the last day.
 >
 > Disk1: Previous count:0 Current count:4<br />
 >
@@ -18,6 +18,8 @@ Most ReadyNAS users have probably experienced it. Waking up, eventually checking
 So after clearing out the coffee you just spluttered all over your keyboard,  what are Reallocated Sectors and, more importantly, what are you going to do about them?
 
 ![Disk Image][]
+{: .align-right .sph_img_rnd}
+
 **Note:** ReadyNAS devices perform HDD SMART tests early each morning - so it is most common to get such a message in your morning inbox)
 {: .notice--primary}
 
@@ -65,4 +67,3 @@ Growing SMART errors indicate a disk that **may fail soon**. If the errors conti
 {: .notice--primary}
 
 [Disk Image]: /assets/images/readynas/hard-disk9_tn.gif "Hard Disk Design"
-{: .align-right}
