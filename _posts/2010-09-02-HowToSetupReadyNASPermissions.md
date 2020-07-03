@@ -22,7 +22,7 @@ Additional related information can be found in the following posts:
 - [Overview of ReadyNAS Permissions]
 - [How to Set Up ReadyNAS Permissions]
 
-<div class="iframe-container iframe-container-letter">
+<div class="iframe-container iframe-container-a4">
   <iframe src="/pdf/web/viewer.html?file={{page.doc}}"></iframe>
 </div>
 
