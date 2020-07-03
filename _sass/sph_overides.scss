@@ -4,16 +4,11 @@
 
 table { width: 100%; }
 
-thead { background-color: transparent;
-        border-top: 2px solid #9B9B9D; }  //Remove table header colour
+thead { background-color: transparent; border-top: 2px solid #9B9B9D; }  //Remove table header colour
 
 figcaption { text-align: center; }
 
-video {
-  //filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-  max-width: 100%;
-  height: auto;
-}
+video { max-width: 100%; height: auto; }
 
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
@@ -21,9 +16,7 @@ audio {
   height: 50px;
 }
 
-embed {
-  height: 100%;
-}
+embed { height: 100%; }
 
 h4 { font-style: italic; } // More differentiation to h3
 
@@ -38,22 +31,12 @@ h4 { font-style: italic; } // More differentiation to h3
   }
 } // permanently enable excerpts in Grid View, ie for small screens
 
-.page__content {
-  p,
-  li,
-  dl  {
-    font-size: 0.9em; //Resize default font for page content
-  }
-}
+.page__content { p, li, dl  { font-size: 0.9em; } } //Resize default font for page content
 
-.sidebar {
-  a   { text-decoration: none; }
-}
+.sidebar { a { text-decoration: none; } }
 
 .toc .nav__title { background: $footer-background-color; }  //Set ToC header to footer colour
 
 .feature__wrapper { border-bottom: 0; margin-bottom: 0; }
 
-.nav__items {
-  li { margin-bottom: 0.5em; }
-}
+.nav__items { li { margin-bottom: 0.5em; } }

@@ -114,9 +114,24 @@
 .emoji { width: 0.8em; height: 0.8em; margin-bottom: 0.2em} //Github Emoji formatting
 
 .sph-sidebar-warning {
-  margin: 1em 0 !important;  /* override*/
+  //margin: 1em 0 !important;  /* override*/
+  padding: 0.1em 0.5em;
   color: darkred;
   font-size: $type-size-5 !important; //resize
+  text-align: center;
+  background-color: mix(#fff, $danger-color, 90%);
+  border-radius: $border-radius;
+  box-shadow: 0 1px 1px rgba($danger-color, 0.25);
+
+  h3 {
+    margin-top: 0;
+  }
+
+  p {
+    text-align: center;
+    margin: 0.5em 0.5em;
+  }
+
 }
 
 .sph-sidebar-menu {
@@ -137,4 +152,9 @@
 .sph-nobotmgn {
   margin-bottom: 0 !important;
   img {margin-bottom: 0 !important;}
+}
+
+.pdf-a4 {
+  width: 100%;
+  height: 130%;
 }
