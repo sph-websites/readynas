@@ -116,14 +116,6 @@ tag_archive             :
   type                  : liquid
   path                  : /tags/
 
-category_archive        :
-  type                  : liquid
-  path                  : /categories/
-
-tag_archive             :
-  type                  : liquid
-  path                  : /tags/
-
 #######################################################################################
 #
 # Standard Jekyll Settings
@@ -206,4 +198,4 @@ whitelist:
 
 # GitHub Settings
 github                  : [metadata]
-repository              : "sphardy/rn"
+repository              : "sphardy/readynas"
