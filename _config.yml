@@ -138,6 +138,7 @@ include:
   - _pages
   - keybase.txt
   - favicon.ico
+  - _redirects
 
 exclude:
   - "*.sublime-project"
