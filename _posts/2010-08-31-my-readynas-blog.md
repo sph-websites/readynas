@@ -3,7 +3,6 @@ title: My ReadyNAS Blog
 date: 2010-08-31
 tags:
   - General
-redirect_from: /2010/08/my-readynas-blog_5795.html
 ---
 
 After posting extensively on the ReadyNAS Forum, I've found myself repeating comments quite regularly. As there is no wiki or other means to consolidate those comments and input, I decided to setup this blog to sporadically capture some of those repeated items. Hope it helps, both ReadyNAS users, and myself (by saving a little effort)

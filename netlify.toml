@@ -1,0 +1,25 @@
+#
+# default build settings
+#
+[build]
+  command = "jekyll build"
+
+[build.environment]
+  JEKYLL_ENV = "development"
+
+#
+# Production Settings
+#
+[context.production]
+  command = "jekyll build --lsi"
+
+[context.production.environment]
+  JEKYLL_ENV = "production"
+
+[context.production.processing]
+  skip_processing = false
+  bundle = true
+  minify = true
+  pretty_urls = true
+  compress = true
+

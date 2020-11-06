@@ -5,8 +5,6 @@ toc: false
 hidden: true
 related: false
 read_time: false
-redirect_from:
-  - /web/permissionsguide/
 classes:
   - wide
 

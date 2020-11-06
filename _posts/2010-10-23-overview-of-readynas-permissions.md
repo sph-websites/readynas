@@ -1,6 +1,5 @@
 ---
 title: Overview of ReadyNAS Permissions
-redirect_from: /2010/10/overview-of-readynas-permissions_1643.html
 date: 2010-10-23
 tags:
   - Permissions

@@ -1,7 +1,6 @@
 ---
 title: Using Final Cut Pro X with ReadyNAS
 date: 2011-10-18
-redirect_from: /2011/10/using-final-cut-pro-x-with-readynas_6783.html
 tags:
   - Media
   - Applications

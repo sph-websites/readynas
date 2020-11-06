@@ -1,9 +1,6 @@
 ---
 title: Setting Up a Website with PHP & MySQL
 date: 2011-06-08
-redirect_from:
-  - /web/readynas/setting-up-a-website-with-php-mysql/
-  - /2011/06/setting-up-website-with-php-mysql_6972.html
 excerpt: One of the most common tasks ReadyNAS users wish to use their devices for is to host a small personal web site. Here's how...
 tags:
   - Configuration

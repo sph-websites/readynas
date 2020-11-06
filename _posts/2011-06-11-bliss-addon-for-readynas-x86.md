@@ -1,9 +1,6 @@
 ---
 title: Bliss Addon for ReadyNAS (x86)
 date: 2011-06-11
-redirect_from:
-  - /web/bliss/
-  - /2011/06/bliss-addon-for-readynas-x86_2115.html
 toc: false
 tags:
   - Media

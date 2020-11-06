@@ -4,10 +4,6 @@ date: 2010-09-27
 toc: false
 excerpt: |
   One of the most powerful features of the ReadyNAS product line is the ability to enable Secure SHell (SSH) access. Via SSH, it is possible to both install additional software as well as gain secure remote access to the ReadyNAS unit.
-redirect_from:
-  - /restoring-ssh-access/
-  - /web/readynas/restoring-ssh-access/
-  - /2010/09/restoring-ssh-access_4574.html
 tags:
   - Security
   - Configuration
