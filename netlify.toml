@@ -66,17 +66,18 @@ package = "netlify-plugin-checklinks"
     "www.readynas.com/?",
     "kb.netgear.com",
     "documentation.apple.com/en/aperture",
+    "support.apple.com/bonjour",
     "frontview",
     "www.dlna.org/digital_living/faq",
     "www.dlna.org/industry",
     "qnap.com",
-    "subsonic.org",
     "synology.com"
   ]
 
   # You can mark some check as todo, which will execute the check, but allow failures.
   # todoPatterns is an array of strings you can match against failing reports
   todoPatterns = [
+   "subsonic.org"
   ]
 
   # Report on all broken links to external pages.
