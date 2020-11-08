@@ -10,7 +10,7 @@ The [DLNA Organisation][] defines itself as follows:
 
 > ![DLNA Logo] The digital home is an evolution of the idea that PCs, consumer electronics and mobile devices should work together seamlessly through a wired or wireless network to share digital content within a home environment. Digital Living Networking Alliance - DLNA - extends that idea to include sharing content on the go as well.
 >
-> <cite><a href="http://www.dlna.org/digital_living/faq/">DLNA Frequently Asked Questions</a></cite>
+> <cite><a href="https://www.dlna.org/digital_living/faq/">DLNA Frequently Asked Questions</a></cite>
 
 The aim is simple and admirable - create a mechanism whereby anyone can access any of their media on any of their devices - Computer, TV, Phone etc. - connected to a home network. Then ensure the success of that mechanism by certifying product compliance with the proposed mechanism.
 
@@ -41,9 +41,9 @@ I don't know for sure why they restrict their capabilities this way; I suspect i
 
 Just be aware that if you have a DLNA Certified Client, and it can't play media via DLNA that possibly it can play by other means - now you know why & who to complain to before posting yet another "Why isn't ReadyDLNA working?" post
 
-[DLNA Organisation]: https://dlna.org/
+[DLNA Organisation]: https://www.dlna.org/
 
-[Media Format and Transport Model]: http://www.dlna.org/industry/why_dlna/key_components/media_format/
+[Media Format and Transport Model]: https://www.dlna.org/industry/why_dlna/key_components/media_format/
 
 [DLNA Logo]: {% link /assets/images/readynas/CERT_COLOR_R.gif %}
 {: .align-right}

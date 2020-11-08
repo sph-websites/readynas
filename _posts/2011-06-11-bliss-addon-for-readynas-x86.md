@@ -50,7 +50,7 @@ Note: If a user name is entered that does not exist, the addon will not start.
 [caption id="attachment_717" align="alignnone" width="150" caption="Confirm the Installation"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM-300x201.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM.jpg)[/caption]
 »
 
-[caption id="attachment_768" align="alignnone" width="150" caption="Bliss Fully Installed"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM-300x201.jpg)](http://www.blogger.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM.jpg)[/caption]
+[caption id="attachment_768" align="alignnone" width="150" caption="Bliss Fully Installed"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM-300x201.jpg)](https://www.blogger.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM.jpg)[/caption]
 
 [![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM-300x156.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM.jpg)
 -->
@@ -80,7 +80,7 @@ To those who give bliss a go, I hope you find it as useful as I have.
 [Plex]:       https://www.plexapp.com/
 [Squeezebox]: https://www.mysqueezebox.com/
 [Subsonic]:   https://www.subsonic.org/
-[Bliss]:      https://blisshq.com/
+[Bliss]:      https://www.blisshq.com/
 
 [Bliss Screenshot 1]: {% link /assets/images/readynas/Screen-shot-2011-06-11-at-2.55.06-PM_tn.jpg %}
 {: .sph_img_left}
