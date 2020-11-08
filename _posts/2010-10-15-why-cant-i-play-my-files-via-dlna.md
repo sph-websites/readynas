@@ -41,7 +41,7 @@ I don't know for sure why they restrict their capabilities this way; I suspect i
 
 Just be aware that if you have a DLNA Certified Client, and it can't play media via DLNA that possibly it can play by other means - now you know why & who to complain to before posting yet another "Why isn't ReadyDLNA working?" post
 
-[DLNA Organisation]: http://dlna.org/
+[DLNA Organisation]: https://dlna.org/
 
 [Media Format and Transport Model]: http://www.dlna.org/industry/why_dlna/key_components/media_format/
 

@@ -24,5 +24,5 @@ I hope it continues to be of help to those many ReadyNAS Users out there. Commen
 
 [blog start]:             {% link _posts/2010-08-31-my-readynas-blog.md %} "My ReadyNAS Blog"
 
-[ReadyNAS community]:     http://www.readynas.com/forum
-[Netgear Defocus]:        http://www.readynas.com/forum/viewtopic.php?f=10&t=67686
+[ReadyNAS community]:     https://www.readynas.com/forum
+[Netgear Defocus]:        https://www.readynas.com/forum/viewtopic.php?f=10&t=67686
