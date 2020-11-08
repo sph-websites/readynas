@@ -189,7 +189,7 @@ Finally, if you intend to access files via HTTP/S or WebDAV, it is recommended t
 [Admin Over AFP]: {% link _posts/2010-10-20-enabling-admin-access-to-the-c-volume-over-afp.md %} "Admin Access over AFP"
 
 [Advanced Share Permissions]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-11.09.29.jpg %}
-[Advanced Share Options]: /{% link assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg %}
+[Advanced Share Options]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg %}
 [Share Access Control]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.30.42.jpg %}
 [Advanced AFP Settings]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.45.55.jpg %}
 
