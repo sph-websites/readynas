@@ -38,5 +38,5 @@ Note that D-Link routers can also suffer this issue, but this can typically be c
 Please post below if you find other routers that experience this issue and I shall add them to the list.
 
 [mDNS]:    https://en.wikipedia.org/wiki/Multicast_DNS "mDNS"
-[Bonjour]: https://www.apple.com/support/bonjour/ "Bonjour"
+[Bonjour]: https://support.apple.com/bonjour/ "Bonjour"
 [Avahi]:   https://avahi.org/ "Avahi"

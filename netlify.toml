@@ -66,7 +66,12 @@ package = "netlify-plugin-checklinks"
     "www.readynas.com/?",
     "kb.netgear.com",
     "documentation.apple.com/en/aperture",
-    "frontview"
+    "frontview",
+    "www.dlna.org/digital_living/faq",
+    "www.dlna.org/industry",
+    "qnap.com",
+    "subsonic.org",
+    "synology.com"
   ]
 
   # You can mark some check as todo, which will execute the check, but allow failures.
