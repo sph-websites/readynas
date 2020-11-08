@@ -32,3 +32,8 @@
   pretty_urls = true
   compress = true
 
+#
+# Deploy Preview Context
+#
+[context.deploy-preview.environment]
+  JEKYLL_ENV = "production"
