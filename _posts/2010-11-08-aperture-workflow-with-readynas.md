@@ -6,7 +6,6 @@ excerpt: |
 tags:
   - Applications
   - Media
-redirect_from: /2010/11/aperture-workflow-with-readynas_6866.html
 ---
 
 ![Aperture Icon][]
@@ -105,18 +104,18 @@ Overall, while hosting a full Library on the NAS is certainly slower that hostin
 
 [Referenced Library]: https://documentation.apple.com/en/aperture/usermanual/index.html#chapter=5%26section=16%26tasks=true
 
-[Aperture Icon]: /assets/images/readynas/aperture3_logo2.png "Aperture Photo Library"
+[Aperture Icon]: {% link /assets/images/readynas/aperture3_logo2.png %} "Aperture Photo Library"
 {: .sph_img_left}
 
-[Backup Location]: /assets/images/readynas/backuplocation.jpg "Setting Backup Options"
+[Backup Location]: {% link /assets/images/readynas/backuplocation.jpg %} "Setting Backup Options"
 {: .sph_img_right}
 
-[Relocate Masters]: /assets/images/readynas/Relocate-Masters-Dialog.png "Relocating Masters"
+[Relocate Masters]: {% link /assets/images/readynas/Relocate-Masters-Dialog.png %} "Relocating Masters"
 {: .sph_img_ctr}
 
-[iSCSI Vault]: /assets/images/readynas/iSCSI-Vault-Settings.jpg "Vault Settings"
+[iSCSI Vault]: {% link /assets/images/readynas/iSCSI-Vault-Settings.jpg %} "Vault Settings"
 {: .sph_img_right}
 
-[iMac & MacBook]: /assets/images/readynas/imac-macbook.png "Apple iMac & MacBook"
+[iMac & MacBook]: {% link /assets/images/readynas/imac-macbook.png %} "Apple iMac & MacBook"
 {: .sph_img_ctr}
 

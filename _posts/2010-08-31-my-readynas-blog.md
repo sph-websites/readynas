@@ -3,7 +3,6 @@ title: My ReadyNAS Blog
 date: 2010-08-31
 tags:
   - General
-redirect_from: /2010/08/my-readynas-blog_5795.html
 ---
 
 After posting extensively on the ReadyNAS Forum, I've found myself repeating comments quite regularly. As there is no wiki or other means to consolidate those comments and input, I decided to setup this blog to sporadically capture some of those repeated items. Hope it helps, both ReadyNAS users, and myself (by saving a little effort)
@@ -19,10 +18,8 @@ In the picture opposite I have a ReadyNAS Ultra-4 (black) to the left, a ReadyNA
 [![Network Config][]][Network Config]
 {: .sph_img_ctr}
 
-[ReadyNAS]:       /assets/images/readynas/readynas.png
-                  "My ReadyNAS Devices"
+[ReadyNAS]:       {% link /assets/images/readynas/readynas.png %} "My ReadyNAS Devices"
 
-[Network Config]: {% link /assets/images/readynas/Network-Config.png %}
-                  "Network Config"
+[Network Config]: {% link /assets/images/readynas/Network-Config.png %} "Network Config"
 
 

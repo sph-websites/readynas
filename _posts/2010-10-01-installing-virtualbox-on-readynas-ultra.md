@@ -6,7 +6,6 @@ excerpt: |
   Here are the steps I used to install the 64 bit version of VB 3.2.8 under RAIDiator 4.2.13 - all worked perfectly first time (though hope I haven't forgotten to copy/paste something)
 tags:
   - Applications
-redirect_from: /2010/10/installing-virtualbox-on-readynas-ultra_2817.html
 ---
 
 ![Vbox Icon][]
@@ -39,5 +38,5 @@ VirtualBox 3.2.10 working fine on RAIDiator 4.2.15, though a kernel recompilatio
 
 [ReadyNAS Developers Forum]: http://www.readynas.com/forum/viewtopic.php?f=35&t=26468&start=225#p258406
 
-[Vbox Icon]: /assets/images/readynas/virtualbox-icon.png
+[Vbox Icon]: {% link /assets/images/readynas/virtualbox-icon.png %}
 {: .sph_img_left}

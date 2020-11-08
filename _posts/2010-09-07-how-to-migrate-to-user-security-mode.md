@@ -2,10 +2,6 @@
 title: How to Migrate to User Security Mode
 date: 2010-09-07
 toc: false
-redirect_from:
-  - /web/readynas/how-to-migrate-to-user-security-mode/
-  - /2010/09/how-to-migrate-to-user-security-mode_4917.html/
-
 tags:
   - Security
   - Configuration
@@ -48,7 +44,7 @@ You need to repeat the above for each of your shares. Once done - you should be 
 
 **NOTE:** This is a first draft of how to make this migration and therefore there may be errors or points that are not fully explained. Feedback would be appreciated so the guide may be improved
 
-[Advanced Share Permissions Img]: /assets/images/readynas/AdvancedSharePermissions.JPG "Advanced Share Permissions"
+[Advanced Share Permissions Img]: {% link /assets/images/readynas/AdvancedSharePermissions.JPG  %} "Advanced Share Permissions"
 {: .align-center}
 
 [Permissions]: {% link _posts/2010-09-01-how-to-setup-readynas-permissions.md %}

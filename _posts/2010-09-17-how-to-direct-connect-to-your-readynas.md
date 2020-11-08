@@ -3,10 +3,6 @@ title: How to Direct Connect to your ReadyNAS
 tagline: ""
 date: 2010-09-17
 toc_label: "How to connect"
-redirect_from:
-  - /how-to-direct-connect-to-your-readynas/
-  - /web/directconnect/
-  - /2010/09/how-to-direct-connect-to-your-readynas_1197.html
 tags:
   - Networking
   - Configuration

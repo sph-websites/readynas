@@ -5,7 +5,6 @@ toc: false
 tags:
   - Backup
   - Applications
-redirect_from: /2011/04/backing-up-via-rsync-to-local-usb-disk_9153.html
 ---
 
 It is often desirable to use rsync to backup data due to the benefits it offers: true incremental backup, the ability to remove data from the backup that has been deleted in the source and rsync's support for verification of the backed-up data are just some of the advantages.
@@ -24,8 +23,8 @@ In the above example all Home Shares are being backed-up to a USB drive called "
 * Rsync must be enabled in Frontview » Services » Standard File Protocols
 * Rsync access is controlled via Frontview » Shares » Share Listing, and selecting the rsync option for the appropriate USB drive (or share if an rsync source is specified)
 
-[Rsync Backup Source]: /assets/images/readynas/HomeShareUSBBackupSrc.jpg "Backup Source"
+[Rsync Backup Source]: {% link /assets/images/readynas/HomeShareUSBBackupSrc.jpg %} "Backup Source"
 {: .sph_img_ctr}
 
-[Rsync Backup Destination]: /assets/images/readynas/HomeShareUSBBackupDest.jpg "Backup Destination"
+[Rsync Backup Destination]: {% link /assets/images/readynas/HomeShareUSBBackupDest.jpg %} "Backup Destination"
 {: .sph_img_ctr}

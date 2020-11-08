@@ -1,7 +1,6 @@
 ---
 title: Apple Related Services not Visible over WiFi
 date: 2011-09-10
-redirect_from: /2011/09/apple-related-services-not-visible-over_8538.html
 toc: false
 tags:
   - Networking

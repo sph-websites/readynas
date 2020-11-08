@@ -3,7 +3,6 @@ title: What are Reallocated Sectors?
 date: 2011-04-07
 tags:
   - General
-redirect_from: /2011/04/what-are-reallocated-sectors_4242.html
 ---
 
 Most ReadyNAS users have probably experienced it. Waking up, eventually checking email over a morning cup of coffee to find that overnight your NAS has sent you the friendly warning:
@@ -66,4 +65,4 @@ In summary, read the message sent by the ReadyNAS carefully and then make your o
 Growing SMART errors indicate a disk that **may fail soon**. If the errors continue to increase, you should **be prepared** to replace the disk.
 {: .notice--primary}
 
-[Disk Image]: /assets/images/readynas/hard-disk9_tn.gif "Hard Disk Design"
+[Disk Image]: {% link /assets/images/readynas/hard-disk9_tn.gif %} "Hard Disk Design"

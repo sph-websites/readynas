@@ -4,7 +4,6 @@ date: 2011-03-23
 tags:
   - Configuration
   - Security
-redirect_from: /2011/03/enabling-user-anonymous-ftp-access_3512.html
 ---
 
 Anonymous FTP access is a useful way to allow people access to download files from your NAS via a web browser without having to setup user accounts or figure out WebDAV.
@@ -42,6 +41,6 @@ Via SSH access to your NAS, this combined user / anonymous authentication mode c
   * This is because the default ReadyNAS anonymous FTP server configuration assumes user shell access is not enabled and relies on this to prevent user access rather than configuring the FTP server to prevent user access.
   * The above modification is one method that may be used to resolve this.
 
-[FTP Authentication Mode]: /assets/images/readynas/ftpauthenticationmode.jpg "FTP Authentication Mode"
+[FTP Authentication Mode]: {% link /assets/images/readynas/ftpauthenticationmode.JPG %} "FTP Authentication Mode"
 {: .sph_img_ctr}
 

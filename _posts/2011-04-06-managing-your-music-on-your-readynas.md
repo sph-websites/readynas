@@ -5,7 +5,6 @@ toc: false
 tags:
   - Configuration
   - Media
-redirect_from: /2011/04/managing-your-music-on-your-readynas_2890.html
 ---
 
 A primary use of home NAS devices is the central storage of, and access to, a media library. For many people a large portion of that library will be music, music that is also often being accessed by multiple applications: SqueezeboxServer, DLNA servers, iTunes etc.
@@ -37,9 +36,9 @@ _(Update: 11 June, 2011)_ I have now written a ReadyNAS addon to simplify instal
 
 [http://www.blisshq.com/install-linux.html]: http://www.blisshq.com/install-linux.html
 
-[Bliss Browser Shot]: /assets/images/readynas/BlissBrowserShot_tn.jpg
+[Bliss Browser Shot]: {% link /assets/images/readynas/BlissBrowserShot_tn.jpg %}
 {: .sph_img_ctr}
 
-[Bliss Image]: /assets/images/readynas/BlissBrowserShot.jpg "Screenshot of Bliss on ReadyNAS"
+[Bliss Image]: {% link /assets/images/readynas/BlissBrowserShot.jpg %} "Screenshot of Bliss on ReadyNAS"
 
 

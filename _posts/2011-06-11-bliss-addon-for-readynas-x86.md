@@ -1,9 +1,6 @@
 ---
 title: Bliss Addon for ReadyNAS (x86)
 date: 2011-06-11
-redirect_from:
-  - /web/bliss/
-  - /2011/06/bliss-addon-for-readynas-x86_2115.html
 toc: false
 tags:
   - Media
@@ -85,12 +82,12 @@ To those who give bliss a go, I hope you find it as useful as I have.
 [Subsonic]:   http://www.subsonic.org/
 [Bliss]:      http://blisshq.com/
 
-[Bliss Screenshot 1]: /assets/images/readynas/Screen-shot-2011-06-11-at-2.55.06-PM_tn.jpg
+[Bliss Screenshot 1]: {% link /assets/images/readynas/Screen-shot-2011-06-11-at-2.55.06-PM_tn.jpg %}
 {: .sph_img_left}
 
-[Bliss Screenshot 1 Image]: /assets/images/readynas/Screen-shot-2011-06-11-at-2.55.06-PM.jpg
+[Bliss Screenshot 1 Image]: {% link /assets/images/readynas/Screen-shot-2011-06-11-at-2.55.06-PM.jpg %}
 
-[Bliss Screenshot 2]: /assets/images/readynas/Screen-shot-2011-06-02-at-5.40.00-PM_tn.jpg
+[Bliss Screenshot 2]: {% link /assets/images/readynas/Screen-shot-2011-06-02-at-5.40.00-PM_tn.jpg %}
 {: .sph_img_right}
 
-[Bliss Screenshot 2 Image]: /assets/images/readynas/Screen-shot-2011-06-02-at-5.40.00-PM.jpg
+[Bliss Screenshot 2 Image]: {% link /assets/images/readynas/Screen-shot-2011-06-02-at-5.40.00-PM.jpg %}

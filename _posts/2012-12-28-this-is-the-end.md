@@ -3,7 +3,6 @@ title: Th-th-that's All Folks!!
 date: 2012-12-28
 toc: false
 excerpt: Bringing this blog to it's natural end
-redirect_from: /2012/12/update.html
 classes:
   - wide
 tags:

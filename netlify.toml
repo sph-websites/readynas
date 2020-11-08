@@ -1,0 +1,39 @@
+#
+# default build settings (over-riding UI)
+#
+[build]
+  # default build command
+  command = "jekyll build"
+
+[build.environment]
+  # default environment
+  JEKYLL_ENV = "development"
+
+[build.processing]
+  # No post processing
+  skip_processing = true
+
+#
+# Production Settings
+#
+[context.production]
+  # Enable enhanced "related post" indexing
+  command = "jekyll build --lsi"
+
+[context.production.environment]
+  # set environment to enable comments & analytics
+  JEKYLL_ENV = "production"
+
+[context.production.processing]
+  # Post process generated site
+  skip_processing = false
+  bundle = true
+  minify = true
+  pretty_urls = true
+  compress = true
+
+#
+# Deploy Preview Context
+#
+[context.deploy-preview.environment]
+  JEKYLL_ENV = "production"

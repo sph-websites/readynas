@@ -6,9 +6,10 @@
 #
 #######################################################################################
 
+url                     : https://readynas.sphardy.com
 title                   : "My ReadyNAS Blog"
 title_separator         : "|"
-subtitle                : "Archived Forum Posts"
+subtitle                : "Archived ReadyNAS Forum Posts"
 author                  : "readynas"
 email                   : "readynas@sphardy.com"
 
@@ -21,8 +22,8 @@ description             : >- # this means to ignore newlines
 #
 #######################################################################################
 
-remote_theme            : mmistakes/minimal-mistakes@4.20.1
-#theme                   : minimal-mistakes-jekyll
+#remote_theme            : mmistakes/minimal-mistakes@4.20.1
+theme                   : minimal-mistakes-jekyll
 minimal_mistakes_skin   : air
 
 logo                    : /assets/images/Masthead-150px.png
@@ -43,12 +44,11 @@ footer:
       icon              : "fab fa-linkedin"
       url               : "https://www.linkedin.com/in/spaulhardy/"
 
-comments                :
-  provider              : "utterances"
-  utterances            :
-    theme               : "github-light" # "github-dark"
-    issue_term          : "title"
-    label               : "comment"
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "my-readynas-blog"
+
 
 analytics               :
   provider              : "custom"
@@ -136,6 +136,7 @@ timezone                : Europe/Mariehamn
 # File/Folder inclusion/exclusion
 include:
   - _pages
+  - _redirects
   - keybase.txt
   - favicon.ico
 
@@ -186,15 +187,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from
-
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-redirect-from
+  - classifier-reborn
 
 # GitHub Settings
 github                  : [metadata]
