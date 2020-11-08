@@ -136,9 +136,9 @@ timezone                : Europe/Mariehamn
 # File/Folder inclusion/exclusion
 include:
   - _pages
+  - _redirects
   - keybase.txt
   - favicon.ico
-  - _redirects
 
 exclude:
   - "*.sublime-project"
@@ -188,14 +188,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
   - classifier-reborn
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-redirect-from
 
 # GitHub Settings
 github                  : [metadata]
