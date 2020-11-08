@@ -36,9 +36,9 @@ _(Update: 11 June, 2011)_ I have now written a ReadyNAS addon to simplify instal
 
 [http://www.blisshq.com/install-linux.html]: http://www.blisshq.com/install-linux.html
 
-[Bliss Browser Shot]: /assets/images/readynas/BlissBrowserShot_tn.jpg
+[Bliss Browser Shot]: {% link /assets/images/readynas/BlissBrowserShot_tn.jpg %}
 {: .sph_img_ctr}
 
-[Bliss Image]: /assets/images/readynas/BlissBrowserShot.jpg "Screenshot of Bliss on ReadyNAS"
+[Bliss Image]: {% link /assets/images/readynas/BlissBrowserShot.jpg %} "Screenshot of Bliss on ReadyNAS"
 
 

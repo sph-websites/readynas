@@ -41,6 +41,6 @@ Via SSH access to your NAS, this combined user / anonymous authentication mode c
   * This is because the default ReadyNAS anonymous FTP server configuration assumes user shell access is not enabled and relies on this to prevent user access rather than configuring the FTP server to prevent user access.
   * The above modification is one method that may be used to resolve this.
 
-[FTP Authentication Mode]: /assets/images/readynas/ftpauthenticationmode.jpg "FTP Authentication Mode"
+[FTP Authentication Mode]: {% link /assets/images/readynas/ftpauthenticationmode.JPG %} "FTP Authentication Mode"
 {: .sph_img_ctr}
 

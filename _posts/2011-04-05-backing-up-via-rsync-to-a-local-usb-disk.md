@@ -23,8 +23,8 @@ In the above example all Home Shares are being backed-up to a USB drive called "
 * Rsync must be enabled in Frontview » Services » Standard File Protocols
 * Rsync access is controlled via Frontview » Shares » Share Listing, and selecting the rsync option for the appropriate USB drive (or share if an rsync source is specified)
 
-[Rsync Backup Source]: /assets/images/readynas/HomeShareUSBBackupSrc.jpg "Backup Source"
+[Rsync Backup Source]: {% link /assets/images/readynas/HomeShareUSBBackupSrc.jpg %} "Backup Source"
 {: .sph_img_ctr}
 
-[Rsync Backup Destination]: /assets/images/readynas/HomeShareUSBBackupDest.jpg "Backup Destination"
+[Rsync Backup Destination]: {% link /assets/images/readynas/HomeShareUSBBackupDest.jpg %} "Backup Destination"
 {: .sph_img_ctr}

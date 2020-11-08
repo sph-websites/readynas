@@ -80,16 +80,16 @@ Finally, you should see that this post is delivered over SSL without generating 
 
 ![FF Screenshot][]
 
-[IE SSL Valid]:   /assets/images/readynas/iessl.png
+[IE SSL Valid]:   {% link /assets/images/readynas/iessl.png %}
 {: .sph_img_full}
 
-[IE SSL Warning]: /assets/images/readynas/iesslwarning.jpg
+[IE SSL Warning]: {% link /assets/images/readynas/iesslwarning.jpg %}
 
-[FF SSL Warning]: /assets/images/readynas/ffsslwarning.jpg
+[FF SSL Warning]: {% link /assets/images/readynas/ffsslwarning.jpg %}
 {: .sph_img_full}
 
-[IE Screenshot]:  /assets/images/readynas/Screen-shot-2010-10-14-at-14.54.58.jpg
+[IE Screenshot]:  {% link /assets/images/readynas/Screen-shot-2010-10-14-at-14.54.58.jpg %}
 {: .sph_img_full}
 
-[FF Screenshot]:  /assets/images/readynas/Screen-shot-2010-10-14-at-14.54.10.jpg
+[FF Screenshot]:  {% link /assets/images/readynas/Screen-shot-2010-10-14-at-14.54.10.jpg %}
 {: .sph_img_full}

@@ -56,17 +56,17 @@ Using video clips stored on a NAS couldn't be easier in FCPX. When importing vid
 
 If you do not select the "Copy files to Final Cut Events folder" option, FCPX will instead create aliases to your original media including to that stored on standard network volumes
 
-[Final Cut Pro X]: /assets/images/readynas/Final-Cut-Pro-X.png  "Final Cut Pro X"
+[Final Cut Pro X]: {% link /assets/images/readynas/Final-Cut-Pro-X.png %} "Final Cut Pro X"
 {: .sph_img_right}
 
-[New Image]: /assets/images/readynas/Screen-Shot-2011-10-18-at-10.06.10.png "Create New Image"
+[New Image]: {% link /assets/images/readynas/Screen-Shot-2011-10-18-at-10.06.10.png %} "Create New Image"
 {: .align-center}
 
-[Store Image]: /assets/images/readynas/Screen-Shot-2011-10-18-at-11.15.20-AM.png "Store Image"
+[Store Image]: {% link /assets/images/readynas/Screen-Shot-2011-10-18-at-11.15.20-AM.png %} "Store Image"
 {: .align-right}
 
-[Duplicate Project]: /assets/images/readynas/Screen-Shot-2011-10-18-at-11.23.25-AM.png "Duplicate Project"
+[Duplicate Project]: {% link /assets/images/readynas/Screen-Shot-2011-10-18-at-11.23.25-AM.png %} "Duplicate Project"
 {: .align-center}
 
-[Note]: /assets/images/readynas/Screen-Shot-2011-10-20-at-11.45.30-AM.png
+[Note]: {% link /assets/images/readynas/Screen-Shot-2011-10-20-at-11.45.30-AM.png %}
 {: .align-center}

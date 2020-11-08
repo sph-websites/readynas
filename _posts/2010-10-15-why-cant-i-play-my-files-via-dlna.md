@@ -45,11 +45,11 @@ Just be aware that if you have a DLNA Certified Client, and it can't play media 
 
 [Media Format and Transport Model]: http://www.dlna.org/industry/why_dlna/key_components/media_format/
 
-[DLNA Logo]: /assets/images/readynas/CERT_COLOR_R.gif
+[DLNA Logo]: {% link /assets/images/readynas/CERT_COLOR_R.gif %}
 {: .align-right}
 
-[Device Formats]: /assets/images/readynas/DLNAHomeDeviceFormats.jpg
+[Device Formats]: {% link /assets/images/readynas/DLNAHomeDeviceFormats.jpg %}
 {: .align-center}
 
-[Media Formats]: /assets/images/readynas/DLNAMobileMediaFormats.jpg
+[Media Formats]: {% link /assets/images/readynas/DLNAMobileMediaFormats.jpg %}
 {: .align-center}

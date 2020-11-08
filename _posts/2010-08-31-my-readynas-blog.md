@@ -18,10 +18,8 @@ In the picture opposite I have a ReadyNAS Ultra-4 (black) to the left, a ReadyNA
 [![Network Config][]][Network Config]
 {: .sph_img_ctr}
 
-[ReadyNAS]:       /assets/images/readynas/readynas.png
-                  "My ReadyNAS Devices"
+[ReadyNAS]:       {% link /assets/images/readynas/readynas.png %} "My ReadyNAS Devices"
 
-[Network Config]: {% link /assets/images/readynas/Network-Config.png %}
-                  "Network Config"
+[Network Config]: {% link /assets/images/readynas/Network-Config.png %} "Network Config"
 
 

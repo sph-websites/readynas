@@ -74,17 +74,17 @@ If you need to get into the real low level nitty-gritty of how ReadyNAS Access a
 
 [permissions wiki]: https://en.wikipedia.org/wiki/Filesystem_permissions "Wikipedia: Filesystem Permissions"
 
-[security mode post]: ../how-to-migrate-to-user-security-mode "Migrate to User Security Mode"
-[permissions overview post]: ../overview-of-readynas-permissions "ReadyNAS Permissions Overview"
-[How to Setup ReadyNAS Permissions Manual]: ../HowToSetupReadyNASPermissions "Permissions Guide"
+[security mode post]: {% link _posts/2010-09-07-how-to-migrate-to-user-security-mode.md %} "Migrate to User Security Mode"
+[permissions overview post]: {% link _posts/2010-10-23-overview-of-readynas-permissions.md %} "ReadyNAS Permissions Overview"
+[How to Setup ReadyNAS Permissions Manual]: {% link _posts/2010-09-02-HowToSetupReadyNASPermissions.md %} "Permissions Guide"
 
-[Lock Icon]: /assets/images/readynas/lock-icon.png
+[Lock Icon]: {% link /assets/images/readynas/lock-icon.png %}
 {: .align-right}
 
-[CIFS Advanced Access Restrictions]: /assets/images/readynas/CIFSShareAccessRestrictions.JPG
-[CIFS Advanced Permissions]: /assets/images/readynas/AdvancedCIFSPermissions.JPG
-[Advanced Share Permissions]: /assets/images/readynas/AdvancedSharePermissions.JPG
-[User Config]: /assets/images/readynas/UserConfig.JPG
+[CIFS Advanced Access Restrictions]: {% link /assets/images/readynas/CIFSShareAccessRestrictions.JPG %}
+[CIFS Advanced Permissions]: {% link /assets/images/readynas/AdvancedCIFSPermissions.JPG %}
+[Advanced Share Permissions]: {% link /assets/images/readynas/AdvancedSharePermissions.JPG %}
+[User Config]: {% link /assets/images/readynas/UserConfig.JPG %}
 {: .align-center}
 
 

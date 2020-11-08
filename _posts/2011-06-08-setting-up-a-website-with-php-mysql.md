@@ -75,12 +75,12 @@ And that's it.
 [enabled root SSH]: https://www.readynas.com/?p=4203
 [phpmyadmin x86 version]: https://www.readynas.com/forum/viewtopic.php?f=48&t=22713&p=124702#p124702
 [phpmyadmin sparc version]: https://www.readynas.com/forum/viewtopic.php?f=47&t=21107&p=114904#p114904
-[phpMyAdminLogin]: /assets/images/readynas/phpMyAdminLogin.png
-[phpMyAdminMain]: /assets/images/readynas/phpMyAdminMain.png
+[phpMyAdminLogin]: {% link /assets/images/readynas/phpMyAdminLogin.png %}
+[phpMyAdminMain]: {% link /assets/images/readynas/phpMyAdminMain.png %}
 [MySQLBackup x86]: https://www.readynas.com/forum/viewtopic.php?f=48&t=44209
 [MySQLBackup sparc]: https://www.readynas.com/forum/viewtopic.php?f=47&t=44208
-[MySQLBackup]: /assets/images/readynas/MySQLBackup.png
+[MySQLBackup]: {% link /assets/images/readynas/MySQLBackup.png %}
 [ReadyNAS Permissions]: {% link _posts/2010-09-01-how-to-setup-readynas-permissions.md %}
-[Website]: /assets/images/readynas/test.png
+[Website]: {% link /assets/images/readynas/test.png %}
 {: .sph_img_right}
 

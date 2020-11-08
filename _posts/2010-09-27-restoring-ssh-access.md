@@ -31,5 +31,5 @@ And next time, make sure you keep an SSH session open while you test any changes
 
 [SSH Configuration file]: {% link /assets/docs/restore_sshd_config.zip %} "SSH Reset Configuration File"
 
-[SSH Image]: /assets/images/readynas/ssh1.jpg
+[SSH Image]: {% link /assets/images/readynas/ssh1.jpg %}
 {: .sph_img_left}

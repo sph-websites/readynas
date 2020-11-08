@@ -51,7 +51,7 @@ For iMovie - creating symbolic links to Event and Project folders stored on netw
 
 For Final Cut Pro X - [See here][Final Cut Pro]
 
-[iMovie]: /assets/images/readynas/imovie.png
+[iMovie]: {% link /assets/images/readynas/imovie.png %}
 {: .align-right}
 
 [Admin over AFP]: {% link _posts/2010-10-20-enabling-admin-access-to-the-c-volume-over-afp.md %} "Admin Access over AFP"

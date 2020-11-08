@@ -38,5 +38,5 @@ VirtualBox 3.2.10 working fine on RAIDiator 4.2.15, though a kernel recompilatio
 
 [ReadyNAS Developers Forum]: http://www.readynas.com/forum/viewtopic.php?f=35&t=26468&start=225#p258406
 
-[Vbox Icon]: /assets/images/readynas/virtualbox-icon.png
+[Vbox Icon]: {% link /assets/images/readynas/virtualbox-icon.png %}
 {: .sph_img_left}

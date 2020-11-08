@@ -188,8 +188,8 @@ Finally, if you intend to access files via HTTP/S or WebDAV, it is recommended t
 [How to setup ReadyNAS Permissions]: {% link _posts/2010-09-02-HowToSetupReadyNASPermissions.md %} "ReadyNAS Permissions Guide"
 [Admin Over AFP]: {% link _posts/2010-10-20-enabling-admin-access-to-the-c-volume-over-afp.md %} "Admin Access over AFP"
 
-[Advanced Share Permissions]: /assets/images/readynas/Screen-shot-2010-10-19-at-11.09.29.jpg
-[Advanced Share Options]: /assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg
-[Share Access Control]: /assets/images/readynas/Screen-shot-2010-10-19-at-12.30.42.jpg
-[Advanced AFP Settings]: /assets/images/readynas/Screen-shot-2010-10-19-at-12.45.55.jpg
+[Advanced Share Permissions]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-11.09.29.jpg %}
+[Advanced Share Options]: /{% link assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg %}
+[Share Access Control]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.30.42.jpg %}
+[Advanced AFP Settings]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.45.55.jpg %}
 

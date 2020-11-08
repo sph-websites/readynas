@@ -65,4 +65,4 @@ In summary, read the message sent by the ReadyNAS carefully and then make your o
 Growing SMART errors indicate a disk that **may fail soon**. If the errors continue to increase, you should **be prepared** to replace the disk.
 {: .notice--primary}
 
-[Disk Image]: /assets/images/readynas/hard-disk9_tn.gif "Hard Disk Design"
+[Disk Image]: {% link /assets/images/readynas/hard-disk9_tn.gif %} "Hard Disk Design"
