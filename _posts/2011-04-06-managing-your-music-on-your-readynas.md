@@ -32,7 +32,7 @@ I won't cover the functionality of bliss here, there are full detailed instructi
 
 _(Update: 11 June, 2011)_ I have now written a ReadyNAS addon to simplify installation - details can be found at [https://www.sphardy.com/web/bliss][Bliss Addon]
 
-[BlissHQ]: https://blisshq.com
+[BlissHQ]: https://www.blisshq.com
 
 [https://www.blisshq.com/install-linux.html]: https://www.blisshq.com/install-linux.html
 

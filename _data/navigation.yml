@@ -5,7 +5,7 @@ main:
   - title : "About"
     url   : https://www.sphardy.com
   - title : "Contact"
-    url   : https://www.sphardy.com/contact
+    url   : https://www.sphardy.com/contact/
 
 popular:
   - title    : "All Posts"

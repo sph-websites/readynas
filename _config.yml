@@ -39,7 +39,7 @@ footer:
   links:
     - label             : "GitHub"
       icon              : "fab fa-fw fa-github"
-      url               : "https://github.com/sphardy/rn"
+      url               : "https://github.com/sphardy/readynas"
     - label             : "LinkedIn"
       icon              : "fab fa-linkedin"
       url               : "https://www.linkedin.com/in/spaulhardy/"

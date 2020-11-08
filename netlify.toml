@@ -63,7 +63,10 @@ package = "netlify-plugin-checklinks"
     "facebook.com", 
     ".map",
     "www.readynas.com/forum",
-    "www.readynas.com/\?"
+    "www.readynas.com/?",
+    "kb.netgear.com",
+    "documentation.apple.com/en/aperture",
+    "frontview"
   ]
 
   # You can mark some check as todo, which will execute the check, but allow failures.
