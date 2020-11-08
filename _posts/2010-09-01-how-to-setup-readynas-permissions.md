@@ -70,7 +70,7 @@ Some notes about the guide:
 If you need to get into the real low level nitty-gritty of how ReadyNAS Access and Permissions work, a detailed overview of how permissions are implemented in ReadyNAS devices, see [this post][permissions overview post]
 
 [original post]: https://www.readynas.com/forum/viewtopic.php?f=23&t=52358 "Original Forum Post"
-[bert386]: http://www.readynas.com/forum/viewtopic.php?f=23&t=33014&start=15#p197753 "Bert386"
+[bert386]: https://www.readynas.com/forum/viewtopic.php?f=23&t=33014&start=15#p197753 "Bert386"
 
 [permissions wiki]: https://en.wikipedia.org/wiki/Filesystem_permissions "Wikipedia: Filesystem Permissions"
 

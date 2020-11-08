@@ -37,3 +37,50 @@
 #
 [context.deploy-preview.environment]
   JEKYLL_ENV = "production"
+
+[[plugins]]
+package = "netlify-plugin-checklinks"
+
+  [plugins.inputs]
+  # An array of glob patterns for pages on your site
+  # Recursive traversal will start from these
+  entryPoints = [
+    "*.html",
+  ]
+
+  # Recurse through all the links and asset references on your page, starting
+  # at the entrypoints
+  recursive = true
+
+  # Checklinks outputs TAP (https://testanything.org/tap-version-13-specification.html)
+  # by default. Enabling pretty mode makes the output easier on the eyes.
+  pretty = true
+
+  # You can mark some check as skipped, which will block checklinks
+  # from ever attempting to execute them.
+  # skipPatterns is an array of strings you can match against failing reports
+  skipPatterns = [ 
+    "facebook.com", 
+    ".map",
+    "www.readynas.com/forum",
+    "www.readynas.com/?",
+    "kb.netgear.com",
+    "documentation.apple.com/en/aperture",
+    "support.apple.com/bonjour",
+    "frontview",
+    "www.dlna.org/digital_living/faq",
+    "www.dlna.org/industry",
+    "qnap.com",
+    "synology.com"
+  ]
+
+  # You can mark some check as todo, which will execute the check, but allow failures.
+  # todoPatterns is an array of strings you can match against failing reports
+  todoPatterns = [
+   "subsonic.org"
+  ]
+
+  # Report on all broken links to external pages.
+  # Enabling this will make your tests more brittle, since you can't control
+  # external pages.
+  checkExternal = true

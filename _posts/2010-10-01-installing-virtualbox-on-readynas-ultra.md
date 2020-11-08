@@ -19,7 +19,7 @@ cd /c/backup
 apt-get update
 apt-get install build-essential amd64-libs lib64stdc++6 bzip2 lib64z1 lzma
 apt-get --reinstall install libc6-amd64
-wget -q http://www.readynas.com/download/GPL/RNDP6xxx_4.2.13_WW_src.zip
+wget -q https://www.readynas.com/download/GPL/RNDP6xxx_4.2.13_WW_src.zip
 unzip -q RNDP6xxx_4.2.13_WW_src.zip -d ./GPL cd GPL/linux-2.6.33.6
 make ARCH=x86_64 make prepare
 ln -s /c/backup/GPL/linux-2.6.33.6 /usr/src/linux
@@ -36,7 +36,7 @@ Note: I've also posted these steps in the [ReadyNAS Developers Forum] - I'm post
 
 VirtualBox 3.2.10 working fine on RAIDiator 4.2.15, though a kernel recompilation is needed for upgrading
 
-[ReadyNAS Developers Forum]: http://www.readynas.com/forum/viewtopic.php?f=35&t=26468&start=225#p258406
+[ReadyNAS Developers Forum]: https://www.readynas.com/forum/viewtopic.php?f=35&t=26468&start=225#p258406
 
 [Vbox Icon]: {% link /assets/images/readynas/virtualbox-icon.png %}
 {: .sph_img_left}

@@ -156,7 +156,7 @@ It is therefore strongly recommended to NEVER modify or create files in the admi
 
 ##  A note about HTTP/HTTPS access
 
-When connecting via CIFS to a share as the user 'admin', (or AFP if you are leveraging [this tip][Admin Over AFP] the previously mentioned permissions are pretty much ignored and the user has full read/write access to all files. This is because despite connecting as the user 'admin', data is actually manipulated as the user 'root' which is a [specially privileged user on Unix/Linux based systems](http://en.wikipedia.org/wiki/Root_user). The admin user is however a member of the group 'admin' and so care should be taken when modifying or creating files & folders while connected as the admin user: such files will be owned by 'root', assigned to the group 'admin', and therefore standard users cannot access such files unless the everyone permissions are set.
+When connecting via CIFS to a share as the user 'admin', (or AFP if you are leveraging [this tip][Admin Over AFP] the previously mentioned permissions are pretty much ignored and the user has full read/write access to all files. This is because despite connecting as the user 'admin', data is actually manipulated as the user 'root' which is a [specially privileged user on Unix/Linux based systems](https://en.wikipedia.org/wiki/Root_user). The admin user is however a member of the group 'admin' and so care should be taken when modifying or creating files & folders while connected as the admin user: such files will be owned by 'root', assigned to the group 'admin', and therefore standard users cannot access such files unless the everyone permissions are set.
 
 Unfortunately this adds a complication: ReadyNAS devices actually run applications as the admin user - notably the Apache webserver that provides HTTP, HTTPS & WebDAV access to shares. When accessing files via HTTP, HTTPS, and/or WebDAV,  irrespective of which account is used to login to the ReadyNAS, all files are accessed on the as the user 'admin'. Note we are referring here to the real admin user account of the underlying Linux OS, not the superuser (root) that is used when logging into a ReadyNAS device via CIFS or AFP as the admin user (Yeah - it's like the admin account is schizophrenic! One set of permissions when accessing the ReadyNAS via HTTP, another when accessing via CIFS or AFP).
 
@@ -189,7 +189,7 @@ Finally, if you intend to access files via HTTP/S or WebDAV, it is recommended t
 [Admin Over AFP]: {% link _posts/2010-10-20-enabling-admin-access-to-the-c-volume-over-afp.md %} "Admin Access over AFP"
 
 [Advanced Share Permissions]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-11.09.29.jpg %}
-[Advanced Share Options]: /{% link assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg %}
+[Advanced Share Options]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-11.41.37.jpg %}
 [Share Access Control]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.30.42.jpg %}
 [Advanced AFP Settings]: {% link /assets/images/readynas/Screen-shot-2010-10-19-at-12.45.55.jpg %}
 

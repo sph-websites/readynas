@@ -105,4 +105,4 @@ Note: I fully appreciate there are security implications to some of these reques
 [ftp]: {% link _posts/2011-03-23-enabling-user-anonymous-ftp-access.md %} "Enable Anonymous FTP"
 
 [Frontview]: https://frontview.readynas.com/admin/
-[Synology DSM]: http://demo.synology.com:5000/
+[Synology DSM]: https://demo.synology.com:5000/

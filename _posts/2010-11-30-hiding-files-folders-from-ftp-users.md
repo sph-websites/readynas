@@ -27,4 +27,4 @@ Where `regexp` is a [Regular Expression][] matching the files & folders you wish
 * While multiple 'HideFiles' settings can be added to the .ftpaccess file, and the FTP server will not generate an error or warning, it appears to only honour the first setting in the file.
 * Be careful to configure the permissions of the .ftpaccess file appropriately to prevent other users editing or deleting it
 
-[Regular Expression]: http://en.wikipedia.org/wiki/Regular_expression "Regular Expressions"
+[Regular Expression]: https://en.wikipedia.org/wiki/Regular_expression "Regular Expressions"

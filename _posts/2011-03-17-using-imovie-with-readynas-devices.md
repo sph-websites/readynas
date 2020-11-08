@@ -35,7 +35,7 @@ Remember also that OSX 10.6 can mount a sub-folder of a share as a separate volu
 
 ### Edit (31/03/11):
 
-Argh!!! Apple have changed how they mount subfolders in OSX 10.6.7 back to the way it worked in 10.5.x. See: [http://support.apple.com/kb/HT4538](http://support.apple.com/kb/HT4538)
+Argh!!! Apple have changed how they mount subfolders in OSX 10.6.7 back to the way it worked in 10.5.x. See: [https://support.apple.com/en-us/HT202181](https://support.apple.com/en-us/HT202181)
 
 But check out [this post][Admin over AFP] - same method can be used to workaround this
 

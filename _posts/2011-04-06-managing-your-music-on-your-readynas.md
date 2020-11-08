@@ -20,9 +20,9 @@ I won't cover the functionality of bliss here, there are full detailed instructi
 
 **Installation**
 
-<del>Bliss requires Java v1.6 for which there is currently no addon, but which can be installed manually - instructions are provided [here](/web/readynas/installing-java-on-x86-readynas/)</del>
+<del>Bliss requires Java v1.6 for which there is currently no addon, but which can be installed manually - instructions are provided [here][Java]</del>
 
-<del>Once Java is installed, bliss may be installed and run via SSH - installation instructions can be found here: [http://www.blisshq.com/install-linux.html][]</del>
+<del>Once Java is installed, bliss may be installed and run via SSH - installation instructions can be found here: [https://www.blisshq.com/install-linux.html][]</del>
 
 <del>It can be run as a regular account provided that account has write access to the media (ie root access is not required) and so I would recommend installing bliss into its own share and being run via a regular user account</del>
 
@@ -30,15 +30,17 @@ I won't cover the functionality of bliss here, there are full detailed instructi
 
 **Addon**
 
-_(Update: 11 June, 2011)_ I have now written a ReadyNAS addon to simplify installation - details can be found at [http://sphardy.com/web/bliss](/web/bliss)
+_(Update: 11 June, 2011)_ I have now written a ReadyNAS addon to simplify installation - details can be found at [https://www.sphardy.com/web/bliss][Bliss Addon]
 
-[BlissHQ]: http://blisshq.com
+[BlissHQ]: https://www.blisshq.com
 
-[http://www.blisshq.com/install-linux.html]: http://www.blisshq.com/install-linux.html
+[https://www.blisshq.com/install-linux.html]: https://www.blisshq.com/install-linux.html
 
 [Bliss Browser Shot]: {% link /assets/images/readynas/BlissBrowserShot_tn.jpg %}
 {: .sph_img_ctr}
 
 [Bliss Image]: {% link /assets/images/readynas/BlissBrowserShot.jpg %} "Screenshot of Bliss on ReadyNAS"
 
+[Bliss Addon]: {% link _posts/2011-06-11-bliss-addon-for-readynas-x86.md %}
 
+[Java]: {% link _posts/2010-10-02-installing-java-on-x86-readynas.md %}

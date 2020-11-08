@@ -22,7 +22,7 @@ More importantly, how often do other users of your NAS see such warnings? And do
 
 An SSL certificate is a means by which web servers prove their identity to web browsers and is digitally "signed" by a certificate authority, such as Verisign, that web browsers already trust. This allows your web browser to verify you are talking to your NAS and not some other server pretending to be your NAS, and then enables encrypted data transfers. The above warnings occur when you do not have a certificate that has been signed by a 3rd party Certificate Authority.
 
-In addition to Certificate authorits like Verisign, many ISPs and Domain Registrars offer their customers cheap SSL certificates. If you have such a certificate, or buy one, unfortunately Netgear has yet to see fit to provide a mechanism for installing it ([unlike their competition](http://docs.qnap.com/nas/eng/index.html?virtual_host.htm)), so getting rid of the confusing warning message for your users and ensuring secure communication to your NAS.
+In addition to Certificate authorits like Verisign, many ISPs and Domain Registrars offer their customers cheap SSL certificates. If you have such a certificate, or buy one, unfortunately Netgear has yet to see fit to provide a mechanism for installing it ([unlike their competition](https://docs.qnap.com/nas/eng/index.html?virtual_host.htm)), so getting rid of the confusing warning message for your users and ensuring secure communication to your NAS.
 
 The following is the manual process to install that certificate on your ReadyNAS devices
 
@@ -30,7 +30,7 @@ The following is the manual process to install that certificate on your ReadyNAS
 
 ## The Certificate:
 
-Providing details of how to obtain a certificate and from where is beyond the scope of this post as the process can vary significantly from provider to provider. I obtained my Certificate via my Domain Registrar who have a co-operation with [Alpha SSL](http://www.alphassl.com/). Alpha SSL has a very clear & simple process for creating the Certificate Signing Request (CSR) that is required for them to issue the certificate. You can find details here: [http://www.alphassl.com/support](http://www.alphassl.com/support/)
+Providing details of how to obtain a certificate and from where is beyond the scope of this post as the process can vary significantly from provider to provider. I obtained my Certificate via my Domain Registrar who have a co-operation with [Alpha SSL](https://www.alphassl.com/). Alpha SSL has a very clear & simple process for creating the Certificate Signing Request (CSR) that is required for them to issue the certificate. You can find details here: [https://www.alphassl.com/support](https://www.alphassl.com/support/)
 
 When you purchase your certificate, you should receive up to 4 "items" of data from the Certificate Authority. I use the term "items" as these may be provided as 1, 2, 3 or 4 separate files. The items are:
 
