@@ -68,4 +68,4 @@ package = "netlify-plugin-checklinks"
   # Report on all broken links to external pages.
   # Enabling this will make your tests more brittle, since you can't control
   # external pages.
-  checkExternal = false
+  checkExternal = true
