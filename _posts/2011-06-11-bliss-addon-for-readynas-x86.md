@@ -34,7 +34,7 @@ There are a number of more complete reviews of bliss - links to which can be fou
 
 The addon can be downloaded from the [ReadyNAS forum](https://www.readynas.com/forum/viewtopic.php?f=48&t=53986)
 
-<!-- or from here: [`http://sphardy.com/web/bliss/bliss_addon_latest`](/web/bliss/bliss_addon_latest) -->
+<!-- or from here: [`https://www.sphardy.com/web/bliss/bliss_addon_latest`](/web/bliss/bliss_addon_latest) -->
 
 Installation is as for any ReadyNAS addon via Frontview. The addon will download the latest publicly available version of bliss directly from the [https://www.blisshq.com](https://www.blisshq.com/) website during installation. (The version installed will be displayed in the Frontview Configuration panel). Once the addon is installed, note that it does not immediately launch the bliss application. This is because the addon first requires a configuration setting.
 
@@ -44,15 +44,15 @@ Note: If a user name is entered that does not exist, the addon will not start.
 
 <!-- Commented out as images are lost
 
-[caption id="attachment_716" align="alignnone" width="150" caption="Upload in Frontview"][![](https://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.10.19-PM-300x202.jpg)](http://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.10.19-PM.jpg)[/caption]
+[caption id="attachment_716" align="alignnone" width="150" caption="Upload in Frontview"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.10.19-PM-300x202.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.10.19-PM.jpg)[/caption]
 »
 
-[caption id="attachment_717" align="alignnone" width="150" caption="Confirm the Installation"][![](https://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM-300x201.jpg)](http://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM.jpg)[/caption]
+[caption id="attachment_717" align="alignnone" width="150" caption="Confirm the Installation"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM-300x201.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.11.00-PM.jpg)[/caption]
 »
 
-[caption id="attachment_768" align="alignnone" width="150" caption="Bliss Fully Installed"][![](http://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM-300x201.jpg)](http://www.blogger.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM.jpg)[/caption]
+[caption id="attachment_768" align="alignnone" width="150" caption="Bliss Fully Installed"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM-300x201.jpg)](http://www.blogger.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-3.08.14-PM.jpg)[/caption]
 
-[![](https://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM-300x156.jpg)](http://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM.jpg)
+[![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM-300x156.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-11-at-10.57.18-AM.jpg)
 -->
 
 The addon will download the latest publicly available version of bliss directly from the [https://www.blisshq.com](https://www.blisshq.com/) website during installation. (The version installed will be displayed in the Frontview Configuration panel). Once the addon is installed, note that it does not immediately launch the bliss application. This is because the addon first requires a configuration setting.
@@ -62,7 +62,7 @@ As bliss will download new artwork to the NAS, and potentially embed artwork int
 Note: If a user name is entered that does not exist, the addon will not start.
 
 <!--
-[caption id="attachment_723" align="alignleft" width="266" caption="Launch Bliss"][![](https://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.16.05-PM-266x300.jpg)](http://sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.16.05-PM.jpg)[/caption]
+[caption id="attachment_723" align="alignleft" width="266" caption="Launch Bliss"][![](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.16.05-PM-266x300.jpg)](https://www.sphardy.com/web/readynas/files/2011/06/Screen-shot-2011-06-02-at-3.16.05-PM.jpg)[/caption]
 -->
 
 Once the addon is enabled and running, it can be access by pressing the "Launch Bliss..." button, or loading `http://<nas_ip_address>:3220` in your web browser

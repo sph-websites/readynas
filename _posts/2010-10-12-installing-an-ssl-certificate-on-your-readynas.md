@@ -30,7 +30,7 @@ The following is the manual process to install that certificate on your ReadyNAS
 
 ## The Certificate:
 
-Providing details of how to obtain a certificate and from where is beyond the scope of this post as the process can vary significantly from provider to provider. I obtained my Certificate via my Domain Registrar who have a co-operation with [Alpha SSL](http://www.alphassl.com/). Alpha SSL has a very clear & simple process for creating the Certificate Signing Request (CSR) that is required for them to issue the certificate. You can find details here: [https://www.alphassl.com/support](http://www.alphassl.com/support/)
+Providing details of how to obtain a certificate and from where is beyond the scope of this post as the process can vary significantly from provider to provider. I obtained my Certificate via my Domain Registrar who have a co-operation with [Alpha SSL](https://www.alphassl.com/). Alpha SSL has a very clear & simple process for creating the Certificate Signing Request (CSR) that is required for them to issue the certificate. You can find details here: [https://www.alphassl.com/support](https://www.alphassl.com/support/)
 
 When you purchase your certificate, you should receive up to 4 "items" of data from the Certificate Authority. I use the term "items" as these may be provided as 1, 2, 3 or 4 separate files. The items are:
 

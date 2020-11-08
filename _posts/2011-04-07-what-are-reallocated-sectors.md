@@ -47,7 +47,7 @@ In my experience it is not unusual to see a small number of reallocated sectors 
 
 The number of reallocated sectors that should cause concern becomes a judgement call, though some of the diagnostic tools provided by HDD manufacturers have thresholds of when reallocated sectors should be considered a problem that can vary per disk type - so this is one way to check if the disk should be replaced.
 
-Note: The [ReadyNAS FAQ](http://www.readynas.com/forum/faq.php#How_can_I_verify_that_my_disk_is_bad%3F) lists the various HDD diagnostic tools available
+Note: The [ReadyNAS FAQ](https://www.readynas.com/forum/faq.php#How_can_I_verify_that_my_disk_is_bad%3F) lists the various HDD diagnostic tools available
 
 My personal rule of thumb in the absence of any HDD manufacturer guidelines or disk checks:
 
